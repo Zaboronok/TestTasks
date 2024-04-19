@@ -1,0 +1,14 @@
+H:\Projects\MindboxTask1\MindboxTask1\bin\Debug\net8.0\MindboxTask1.exe
+H:\Projects\MindboxTask1\MindboxTask1\bin\Debug\net8.0\MindboxTask1.deps.json
+H:\Projects\MindboxTask1\MindboxTask1\bin\Debug\net8.0\MindboxTask1.runtimeconfig.json
+H:\Projects\MindboxTask1\MindboxTask1\bin\Debug\net8.0\MindboxTask1.dll
+H:\Projects\MindboxTask1\MindboxTask1\bin\Debug\net8.0\MindboxTask1.pdb
+H:\Projects\MindboxTask1\MindboxTask1\obj\Debug\net8.0\MindboxTask1.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projects\MindboxTask1\MindboxTask1\obj\Debug\net8.0\MindboxTask1.AssemblyInfoInputs.cache
+H:\Projects\MindboxTask1\MindboxTask1\obj\Debug\net8.0\MindboxTask1.AssemblyInfo.cs
+H:\Projects\MindboxTask1\MindboxTask1\obj\Debug\net8.0\MindboxTask1.csproj.CoreCompileInputs.cache
+H:\Projects\MindboxTask1\MindboxTask1\obj\Debug\net8.0\MindboxTask1.dll
+H:\Projects\MindboxTask1\MindboxTask1\obj\Debug\net8.0\refint\MindboxTask1.dll
+H:\Projects\MindboxTask1\MindboxTask1\obj\Debug\net8.0\MindboxTask1.pdb
+H:\Projects\MindboxTask1\MindboxTask1\obj\Debug\net8.0\MindboxTask1.genruntimeconfig.cache
+H:\Projects\MindboxTask1\MindboxTask1\obj\Debug\net8.0\ref\MindboxTask1.dll
